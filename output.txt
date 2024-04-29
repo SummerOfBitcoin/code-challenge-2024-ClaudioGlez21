@@ -1,0 +1,2 @@
+Block Header: 18027
+Serialized Coinbase Transaction: {"txid": "coinbase", "fee": 0, "size": 0}
